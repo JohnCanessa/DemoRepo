@@ -8,8 +8,7 @@ int main ()
 {
   
   // **** display two line message ****
-  cout << "Hello";
-  cout << " John !!!" << endl;
+  cout << "Hello John !!!" << endl;
   
   // **** all is well ****
   return 0;
