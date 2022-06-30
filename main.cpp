@@ -7,8 +7,9 @@ using namespace std;
 int main ()
 {
   
-  // **** display message ****
-  cout << "Hello world";
+  // **** three line message ****
+  cout << "Hello";
+  cout << " world";
   cout << "!!!" << endl;
   
   // **** all is well ****
