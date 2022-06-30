@@ -1,0 +1,13 @@
+# **** check the following for VS suggestions:
+#      https://github.com/github/gitignore/blob/main/VisualStudio.gitignore ****
+
+# **** files that start with . (include .gitignore) ****
+.*
+!.gitignore
+
+# **** ****
+x64/
+
+# **** take care of the .vs folder and sub folders ****
+# */.vs/*
+.vs/
