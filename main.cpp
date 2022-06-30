@@ -6,7 +6,7 @@ using namespace std;
 */
 int main ()
 {
-  
+
   // **** one line message ****
   cout << "Hello world!!!" << endl;
   
