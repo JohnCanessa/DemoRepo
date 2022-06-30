@@ -6,10 +6,11 @@ using namespace std;
 */
 int main ()
 {
-  
-  // **** display two line message ****
+
+  // **** three line message ****
   cout << "Hello";
-  cout << " John !!!" << endl;
+  cout << " world";
+  cout << "!!!" << endl;
   
   // **** all is well ****
   return 0;
